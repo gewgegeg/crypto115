@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+env/
+venv/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
+
+# Logs/Runtime
+*.log
+*.pid
+*.pid.lock
+
+# Local bootstrap
+get-pip.py
+
+# Build/Dist
+build/
+dist/
+*.egg-info/
