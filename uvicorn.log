@@ -1,6 +1,0 @@
-nohup: ignoring input
-INFO:     Started server process [3679]
-INFO:     Waiting for application startup.
-INFO:     Application startup complete.
-INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     127.0.0.1:50070 - "GET /api/scan?capital_usd=1000&min_net_spread_pct=0.4&large_caps_only=true&enabled=binance&enabled=bybit&enabled=okx&enabled=bitget&enabled=kucoin HTTP/1.1" 200 OK
